@@ -1,4 +1,5 @@
-# design-patterns-practice
+
+# 🛠️ Design Patterns Practice in [Language]
 
 ## 1. Creational Patterns
 
@@ -94,3 +95,26 @@ Swap the strategy object at runtime without changing the context class.
 * **Key Goal:** Pass a request along a chain of handlers, letting each handler decide whether to process it or pass it to the next.
 
 ---
+
+## 🗺️ Progress & Roadmap
+
+### Phase 1: Core Decoupling & Composition
+- [ ] **Strategy** — E-Commerce Shipping Rate Calculator
+- [ ] **Factory Method** — Multi-channel Notification System
+- [ ] **Observer** — Real-time Weather / Stock Dashboard
+
+### Phase 2: Creation & Adaptation
+- [ ] **Singleton** — Thread-safe In-Memory Config Manager
+- [ ] **Adapter** — Third-party Payment Gateway Integration
+- [ ] **Builder** — Fluent HTTP / SQL Query Constructor
+
+### Phase 3: Wrapping & Encapsulation
+- [ ] **Decorator** — Dynamic Beverage Customizer
+- [ ] **Facade** — Smart Home Controller Subsystem
+- [ ] **Command** — Text Editor with Undo/Redo Stack
+
+### Phase 4: Pipelines & State Architecture
+- [ ] **State** — Vending Machine State Engine
+- [ ] **Chain of Responsibility** — Middleware Validation Pipeline
+- [ ] **Composite** — File System Tree Explorer
+- [ ] **Abstract Factory** — Multi-Theme UI Toolkit
