@@ -114,7 +114,7 @@ A hands-on practice repo: one real-world problem per Gang of Four design pattern
 
 ### Phase 1: Core Decoupling
 - [x] **Strategy** — E-Commerce Shipping Rate Calculator
-- [ ] **Factory Method** — Multi-channel Notification System
+- [x] **Factory Method** — Multi-channel Notification System
 - [ ] **Observer** — Real-time Weather / Stock Dashboard
 
 ### Phase 2: Creational
